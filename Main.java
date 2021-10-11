@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello Java!");
     }
 
-    public static void sayHello() {
-        System.out.println("Hello!");
+    public static void sayHello(String name) {
+        System.out.println("Hello" + name + "!");
     }
 }
