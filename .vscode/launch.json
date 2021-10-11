@@ -15,7 +15,6 @@
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Main",
-            "projectName": "GitSample_443a565f",
             "args": ["Apple", "Grape", "Orange", "Melon"]
         }
     ]
