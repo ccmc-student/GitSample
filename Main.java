@@ -5,4 +5,10 @@ public class Main {
         System.out.println("Hello Japan!");
         System.out.println("Hello Java!");
     }
+
+    public static void showArgs(String[] args) {
+        for(int i = 0; i < args.length; i++) {
+            System.out.println(args[i]);
+        }
+    }
 }
