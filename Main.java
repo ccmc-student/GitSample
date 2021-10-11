@@ -4,6 +4,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello Japan!");
         System.out.println("Hello Java!");
+
+        showArgs(args);
     }
 
     public static void showArgs(String[] args) {
